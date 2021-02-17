@@ -1,4 +1,4 @@
-token: "yourtoken"     # lichess OAuth2 Token
+token: wtBWxghPt69cpc1f     # lichess OAuth2 Token
 url: "https://lichess.org/"  # lichess base URL
 
 engine:                      # engine settings
@@ -65,8 +65,8 @@ challenge:                   # incoming challenges
 #   - threeCheck
   time_controls:             # time controls to accept
     - bullet
-    - blitz
-    - rapid
+#   - blitz
+#  - rapid
     - classical
 #   - correspondence
   modes:                     # game modes to accept
